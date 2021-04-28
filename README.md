@@ -12,4 +12,4 @@ A repo of Mastering DAX.
   - TRUE / FALSE
 - Other types
   - String
-  -~~Binary Object~~
+  - ~~Binary Object~~
