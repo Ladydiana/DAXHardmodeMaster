@@ -15,4 +15,5 @@ A repo of Mastering DAX.
   - ~~Binary Object~~
   
 ## Exercises
-02.10 Average sales per customer
+- 02.10 Average sales per customer
+- 02.20 Average delivery time
