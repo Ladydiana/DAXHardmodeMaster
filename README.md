@@ -13,3 +13,6 @@ A repo of Mastering DAX.
 - Other types
   - String
   - ~~Binary Object~~
+  
+## Exercises
+02.10 Average sales per customer
