@@ -17,3 +17,5 @@ A repo of Mastering DAX.
 ## Exercises
 - 02.10 Average sales per customer
 - 02.20 Average delivery time
+- 02.50 Last update of customer
+- 02.40 Working days
