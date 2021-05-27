@@ -19,3 +19,4 @@ A repo of Mastering DAX.
 - 02.20 Average delivery time
 - 02.50 Last update of customer
 - 02.40 Working days
+- 02.30 Discount categories
