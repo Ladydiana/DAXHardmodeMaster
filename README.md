@@ -20,3 +20,4 @@ A repo of Mastering DAX.
 - 02.50 Last update of customer
 - 02.40 Working days
 - 02.30 Discount categories
+- 03.20 Percentage of sales
