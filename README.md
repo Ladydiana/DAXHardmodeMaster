@@ -22,3 +22,4 @@ A repo of Mastering DAX.
 - 02.30 Discount categories
 - 03.20 Percentage of sales
 - 03.10 Delivery working days
+- 03.40 Sales of products in the first week
