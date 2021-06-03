@@ -25,3 +25,4 @@ A repo of Mastering DAX.
 - 03.40 Sales of products in the first week
 - 03.30 Customers with children
 - 04.10 Nested iterators
+- 04.20 Customers in North America
