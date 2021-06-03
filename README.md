@@ -26,3 +26,4 @@ A repo of Mastering DAX.
 - 03.30 Customers with children
 - 04.10 Nested iterators
 - 04.20 Customers in North America
+- 05.10 Create a parameter table
