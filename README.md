@@ -23,3 +23,4 @@ A repo of Mastering DAX.
 - 03.20 Percentage of sales
 - 03.10 Delivery working days
 - 03.40 Sales of products in the first week
+- 03.30 Customers with children
