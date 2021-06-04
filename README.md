@@ -28,3 +28,4 @@ A repo of Mastering DAX.
 - 04.20 Customers in North America
 - 05.10 Create a parameter table
 - 05.05 Sales of red and blue products
+- 05.20 Understanding CALCULATE
