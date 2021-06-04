@@ -29,3 +29,4 @@ A repo of Mastering DAX.
 - 05.10 Create a parameter table
 - 05.05 Sales of red and blue products
 - 05.20 Understanding CALCULATE
+- 05.25 Sales of blue products
