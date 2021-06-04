@@ -2,17 +2,6 @@
 
 A repo of Mastering DAX.
 
-## Data Types
-- Numeric types
-  - Integer (64 bit)
-  - Decimal (floating point)
-  - Currency (stored as integer)
-- Date (DateTime)
-- Boolean
-  - TRUE / FALSE
-- Other types
-  - String
-  - ~~Binary Object~~
   
 ## Exercises
 - 02.10 Average sales per customer
@@ -30,3 +19,16 @@ A repo of Mastering DAX.
 - 05.05 Sales of red and blue products
 - 05.20 Understanding CALCULATE
 - 05.25 Sales of blue products
+- 05.15 Computing percentages
+
+## Data Types
+- Numeric types
+  - Integer (64 bit)
+  - Decimal (floating point)
+  - Currency (stored as integer)
+- Date (DateTime)
+- Boolean
+  - TRUE / FALSE
+- Other types
+  - String
+  - ~~Binary Object~~
