@@ -27,3 +27,4 @@ A repo of Mastering DAX.
 - 04.10 Nested iterators
 - 04.20 Customers in North America
 - 05.10 Create a parameter table
+- 05.05 Sales of red and blue products
